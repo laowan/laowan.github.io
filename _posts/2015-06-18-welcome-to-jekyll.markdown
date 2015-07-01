@@ -6,8 +6,8 @@ categories: laowan
 ---
 
 |-----------------+------------+-----------------+----------------|
-| 年份 |DirectX| OpenGL  | Windows  |
-|-----------|:--------:|:----------:|-----------:|
+| 年份 |DirectX[^1]| OpenGL[^2]  | Windows[^3]  |
+|-----------|:--------:|:----------:|:-----------:|
 | 1992 |      | 1.0 |       |
 | 1995 | 1.0  |     |   95  |
 | 1997 |      | 1.1 |       |
@@ -24,4 +24,6 @@ categories: laowan
 | 2015 | 12.0 |     |   10  |
 |-----------------+------------+-----------------+----------------|
 
-https://en.wikipedia.org/wiki/Microsoft_Windows
+[^1]:[https://en.wikipedia.org/wiki/DirectX](https://en.wikipedia.org/wiki/DirectX)
+[^2]:[https://en.wikipedia.org/wiki/OpenGL](https://en.wikipedia.org/wiki/OpenGL)
+[^3]:[https://en.wikipedia.org/wiki/Microsoft_Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
