@@ -5,6 +5,7 @@ date:   2015-06-18 17:19:15
 categories: laowan
 ---
 
+
 |------+-----------+-------------+--------------+-------|
 | 年份 |DirectX[^1]| OpenGL[^2]  | Windows[^3]  | Rock  |
 |------|:---------:|:-----------:|:------------:|:-----:|
@@ -34,6 +35,8 @@ categories: laowan
 | 2015 | 12.0 |     |   10  |  |
 |------+------+-----+-------+--|
 
+   
+# 参考
 [^1]:[https://en.wikipedia.org/wiki/DirectX](https://en.wikipedia.org/wiki/DirectX)
 [^2]:[https://en.wikipedia.org/wiki/OpenGL](https://en.wikipedia.org/wiki/OpenGL)
 [^3]:[https://en.wikipedia.org/wiki/Microsoft_Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)

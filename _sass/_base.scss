@@ -207,15 +207,23 @@ pre {
  * Table (show table's border)
  */
 table{
-    border-collapse: collapse;
+        /*width:100%; */
+    border-collapse:collapse;
     border-spacing: 0;
-    border:2px solid #000000;
+    border:2px solid black;
+    }
+table th{
+    border:2px solid black;
 }
-
-th{
-    border:2px solid #000000;
+table td{ 
+    border:1px solid black;
 }
-
-td{
-    border:1px solid #000000;
+/*table tr{
+    background: #b8d1f3;
+}*/
+/*table tr:nth-child(odd){ 
+    background: #b8d1f3;
+}*/
+table tr:nth-child(even){
+    background: #dae5f4;
 }
