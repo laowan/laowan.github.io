@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "年表"
-date:   2015-06-18 17:19:15
 categories: laowan
 ---
 
